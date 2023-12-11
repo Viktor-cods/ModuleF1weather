@@ -1,0 +1,6 @@
+.weather {
+    display: flex;
+    width: 25%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
